@@ -1,0 +1,81 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+    <!--  New Dimensions -->
+    <dimen name="one">1dp</dimen>
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_medium">14sp</dimen>
+    <dimen name="text_size_normal">18sp</dimen>
+    <dimen name="text_size_large">24sp</dimen>
+
+    <dimen name="text_5">5dp</dimen>
+    <dimen name="margin_4">4dp</dimen>
+    <dimen name="margin_6">6dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="margin_12">12dp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="margin_24">24dp</dimen>
+    <dimen name="margin_24_sp">24sp</dimen>
+    <dimen name="margin_22">22dp</dimen>
+    <dimen name="btn_height">40dp</dimen>
+    <dimen name="text_large">18sp</dimen>
+    <dimen name="elevation">10dp</dimen>
+    <dimen name="logo">180dp</dimen>
+    <dimen name="margin_30">30dp</dimen>
+    <dimen name="margin_30sp">30sp</dimen>
+    <dimen name="txt_40">40dp</dimen>
+    <dimen name="margin_150">170dp</dimen>
+
+    <!--General-->
+    <dimen name="text_10">10sp</dimen>
+    <dimen name="text_12">12sp</dimen>
+    <dimen name="text_15">15sp</dimen>
+    <dimen name="text_20">20sp</dimen>
+    <dimen name="text_25">25sp</dimen>
+    <dimen name="text_30">30sp</dimen>
+    <dimen name="margin_5">5dp</dimen>
+    <dimen name="margin_8">6dp</dimen>
+    <dimen name="margin_70">70dp</dimen>
+    <dimen name="margin_60">60dp</dimen>
+    <dimen name="margin_40">40dp</dimen>
+    <dimen name="margin_50">50dp</dimen>
+    <dimen name="margin_55">55dp</dimen>
+    <dimen name="margin_32">32dp</dimen>
+    <dimen name="margin_80">80dp</dimen>
+    <dimen name="margin_100">100dp</dimen>
+    <dimen name="margin_130">140dp</dimen>
+    <dimen name="margin_16">16dp</dimen>
+    <dimen name="margin_0">0dp</dimen>
+
+    <dimen name="margin_300">315dp</dimen>
+
+    <dimen name="margin_1">1dp</dimen>
+    <dimen name="margin_15">15dp</dimen>
+    <dimen name="button_round">5dp</dimen>
+    <dimen name="button_3">3dp</dimen>
+    <!--UI Constant-->
+    <dimen name="margin_login">30dp</dimen>
+
+    <!--Text Dimension-->
+    <dimen name="text">14sp</dimen>
+    <dimen name="textExLarge">24sp</dimen>
+    <dimen name="icon_loader">60dp</dimen>
+    <dimen name="radius">8dp</dimen>
+    <dimen name="vertical_spacing">20dp</dimen>
+    <dimen name="divider">1dp</dimen>
+    <dimen name="btn_width">160dp</dimen>
+    <dimen name="menu_height">180dp</dimen>
+    <dimen name="attachment_height">80dp</dimen>
+    <dimen name="nav_drawer_width">350dp</dimen>
+
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">225dp</dimen>
+
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="drawer_height">146dp</dimen>
+    <dimen name="drawer_height1">168dp</dimen>
+</resources>

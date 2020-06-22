@@ -1,0 +1,19 @@
+package com.sawah.signalrtest.data.source.remote;
+
+@Suppress("unused")
+enum class MockCallType {
+
+    VALID_LOGIN,
+    INVALID_LOGIN,
+    NEARBY,
+    NEARBY_NO_DATA,
+    APPLICATION_DATA,
+    APPLICATION_DATA_ERROR,
+    CATEGORIES,
+    CATEGORIES_NO_DATA,
+    REGISTER_ACTIVE_USER_SUCCESS,
+    REGISTER_ACTIVE_USER_EMAIL_EXISTS,
+    REGISTER_ACTIVE_USERNAME_EXISTS
+
+
+}

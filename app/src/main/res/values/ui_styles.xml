@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="text">
+
+        <item name="android:fontFamily">"sans-serif-light"</item>
+        <item name="android:textColor">@color/colorTextPrimary</item>
+        <item name="android:textSize">@dimen/text</item>
+
+    </style>
+
+    <style name="text.Header" parent="text">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/colorTextPrimary</item>
+        <item name="android:textSize">@dimen/text_large</item>
+    </style>
+
+</resources>

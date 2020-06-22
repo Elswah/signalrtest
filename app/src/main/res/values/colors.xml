@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Base colors-->
+
+    <color name="colorPrimary">#014EB9</color>
+    <color name="colorPrimary_trans">#85014EB9</color>
+    <color name="light_colorPrimary_trans">#815879EC</color>
+    <color name="colorPrimaryDark">#002788</color>
+    <color name="colorPrimaryLight">#5879ec</color>
+    <color name="viewed">#c6BBB5</color>
+    <color name="unviewd">#000</color>
+    <color name="colorAccent">#c2002F</color>
+    <color name="colorAccent_trans">#8DC2002F</color>
+    <color name="adp_grey">#adafb1</color>
+    <color name="adp_dark_brown">#392e2c</color>
+    <color name="adp_brown">#756660</color>
+    <color name="adp_med_brown">#988b86</color>
+    <color name="adp_light_brown">#c6BBB5</color>
+    <color name="adp_light_brown_trans">#97C6BBB5</color>
+
+    <color name="user_profile_brown_gr_start">#8AC4C4C4</color>
+    <color name="user_profile_brown_gr_mid">#8BDFDFDF</color>
+
+
+    <color name="alert_card_gr_start">#9590A1D3</color>
+    <color name="alert_card_gr_mid">#8FB9CBE2</color>
+    <color name="alert_card_gr_end">#A4E7F5F2</color>
+
+    <color name="colorSecondary">#a39161</color>
+    <color name="colorSecondaryMedium">#C4A661</color>
+    <color name="colorSecondaryLight">#C4AD76</color>  <!--bfe7f7-->
+    <color name="colorSecondaryLight_trans_">#6BC4A661</color>
+    <color name="colorTextPrimary">#1D1C1C</color>
+    <color name="colorTextSecondary">#7f1a18</color>
+    <color name="translucentBackground">#66DADADA</color>
+
+    <color name="confirmcolor">#009688</color>
+
+    <color name="footerColor">#464646</color>
+    <color name="buttonTextColor">#FFFFFF</color>
+    <color name="primaryTextColor">#464646</color>
+    <color name="intilizeTextColor">#7B633E</color>
+
+    <color name="secondaryTextColor">#A0A0A0</color>
+    <color name="background">#ECECEE</color>
+    <color name="gree">#09861e</color>
+    <color name="orange">#F7C244</color>
+    <color name="yellow">#CDD004</color>
+    <color name="white">#FFFFFF</color>
+    <color name="trans_white">#74FFFFFF</color>
+    <color name="highlightedRow">#FCF6E2</color>
+    <color name="closed">#20682F</color>
+    <color name="open">#891e04</color>
+    <color name="splashBg">#EFEFEF</color>
+    <color name="darker_card_background">#123742</color><!--7d99c1-->
+    <color name="colorBlue">#3F51B5</color>
+    <!--    <color name="colorPrimaryDark">#303F9F</color>-->
+    <color name="black">#000000</color>s
+    <color name="colorDivider">#FF464646</color>s
+    <color name="arc_background">#FFFF8800</color>
+    <color name="button_text_color">#F1F1F3</color>
+    <color name="green">#075e54</color>
+    <color name="card_background_new">#99ebe5e0</color>
+    <color name="card_background">#d7cec8</color> <!--7d99c1-->
+    <color name="card_bg">#CC2A3F</color>
+    <color name="transBlack">#7f000000</color>
+    <color name="view_bg">#0B5383</color>
+    <color name="main_layout_background">#5E5E5E</color>
+
+    <color name="transperent_color">#6999</color>
+    <color name="grey_color">#999999</color>
+    <color name="trans_light_grey_color">#4DAAAAAA</color>
+
+    <color name="header_color">#A97E3A</color>
+    <color name="snack_bar_success_color">#002e6c</color>
+    <color name="snack_bar_error_color">#c2002F</color>
+
+    <color name="accepted_violation_marker">#FF013E</color>
+    <color name="rejected_violation_marker">#00FC46</color>
+
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/emergencyStop"
+        android:title="  Emergency Stop"
+        app:showAsAction="always|withText" />
+
+
+    <!-- <item
+         android:id="@+id/categories_menu"
+         android:title="Categories"
+         app:showAsAction="always"
+         android:icon="@drawable/bottom_navigation_home_selector"
+         />
+
+     <item
+         android:id="@+id/locatoin_menu"
+         android:title="Location"
+         app:showAsAction="always"
+         android:icon="@drawable/bottom_navigation_home_selector"
+         />-->
+
+</menu>
