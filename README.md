@@ -1,7 +1,7 @@
 # Introduction 
 Thi application will help Student in navigation/routing towards Destination.
 
-#Steps
+# Steps
  1- this project has code related to signalR only
  2- connection start in onResume method
  3- close connection in onPause
